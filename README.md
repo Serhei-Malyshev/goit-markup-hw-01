@@ -1,5 +1,7 @@
-# goit-markup-hw-01
+# GOIT Homework 1 - goit-markup-hw-01
 
-Домашнє завдання GOIT HTML-розмітка макета Web Studio без CSS оформлення.
+HTML layout of designer mockup "Web Studio" without CSS styles
 
-Жива сторінка https://serhei-malyshev.github.io/goit-markup-hw-01/
+live page: https://serhei-malyshev.github.io/goit-markup-hw-01/
+
+Design mockup: https://github.com/Serhei-Malyshev/goit-markup-hw-01/blob/main/images/mockup-jpg/Web-Studio-HW-1.jpg
