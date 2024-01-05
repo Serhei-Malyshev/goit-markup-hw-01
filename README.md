@@ -1,4 +1,5 @@
-# Educational project GOIT Homework 1 - goit-markup-hw-01
+# Educational project GOIT Homework 1
+# goit-markup-hw-01
 
 HTML layout of designer mockup "Web Studio" without CSS styles
 
