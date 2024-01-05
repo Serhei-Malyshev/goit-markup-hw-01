@@ -1,7 +1,6 @@
 # Educational project GOIT Homework 1
-# goit-markup-hw-01
 
-HTML layout of designer mockup "Web Studio" without CSS styles
+## HTML layout of designer mockup "Web Studio" without CSS styles
 
 live page: https://serhei-malyshev.github.io/goit-markup-hw-01/
 
