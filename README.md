@@ -1,6 +1,6 @@
 # Educational project GOIT Homework 1
 
-## HTML layout of designer mockup "Web Studio" without CSS styles
+## HTML markup of designer mockup "Web Studio" without CSS styles
 
 ### live page
 
