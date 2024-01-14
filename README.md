@@ -8,7 +8,7 @@ https://serhei-malyshev.github.io/goit-markup-hw-01/
 
 ### Design mockup
 
-https://github.com/Serhei-Malyshev/goit-markup-hw-01/blob/main/images/mockup-jpg/Web-Studio-HW-1.jpg
+https://github.com/Serhei-Malyshev/goit-markup-hw-01/blob/main/images/mockup-jpg/GOIT-HM-1-Main-Page.jpg
 
 ## Review educational project GOIT Homework 2
 
