@@ -16,5 +16,5 @@ https://github.com/Serhei-Malyshev/goit-markup-hw-01/blob/main/images/mockup-jpg
 
 ## Review of other educational projects of GOIT
 
-https://github.com/Serhei-Malyshev/goit-markup-hw-02
-https://github.com/Serhei-Malyshev/goit-markup-hw-03
+* https://github.com/Serhei-Malyshev/goit-markup-hw-02
+* https://github.com/Serhei-Malyshev/goit-markup-hw-03
